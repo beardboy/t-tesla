@@ -1,12 +1,12 @@
 # Introduction
 
-This is an unofficial documentation of the Tesla Solar local REST API.
+This is an unofficial documentation of the Tesla Solar Local and Tesla Owner REST API.
 
 ## Contributing
 
 We welcome your contributions! Please feel free to submit [pull requests](https://github.com/beardboy/t-tesla/pulls) with any changes or additions you'd like to make. Your assistance is highly appreciated!
 
-## Getting Started
+## Getting Started - Local API
 
 To begin, set up your Gateway on your local WiFi network by following Tesla's instructions available at:
 
@@ -21,6 +21,10 @@ Once you have obtained the Gateway's local IP Address, try accessing it from you
 Use the local IP Address and [login](local-api/login.md) endpoint to get a token that will be used as the Bearer Token for all future requests.
 
 #### GET `https://<local-ip-address>/api/login/Basic`
+
+## Getting Started - Tesla Owner API
+
+Get a Tesla Owner Access Token ([authentication](owner-api/authentication.md)) and begin making requests.
 
 ## Coming Soon
 
