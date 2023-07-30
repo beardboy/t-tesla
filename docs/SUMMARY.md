@@ -9,6 +9,7 @@
 - [Customer](local-api/customer.md)
 - [Generators](local-api/generators.md)
 - [Installer](local-api/installer.md)
+- [Meters](local-api/meters.md)
 - [Networks](local-api/networks.md)
 - [Operation](local-api/operation.md)
 - [Powerwalls](local-api/powerwalls.md)
