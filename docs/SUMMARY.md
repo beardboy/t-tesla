@@ -37,7 +37,6 @@
   - [Tariff Rate](owner-api/energy-sites/tariff-rate.md)
   - [Telemetry History](owner-api/energy-sites/telemetry-history.md)
 
-
 - [Powerwalls](owner-api/powerwalls/README.md)
   - [Data](owner-api/powerwalls/powerwalls.md)
   - [History](owner-api/powerwalls/powerhistory.md)
