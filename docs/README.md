@@ -10,7 +10,7 @@ We welcome your contributions! Please feel free to submit [pull requests](https:
 
 To begin, set up your Gateway on your local WiFi network by following Tesla's instructions available at:
 
-- https://www.tesla.com/support/energy/powerwall/own/connecting-network
+- [Connecting to Tesla Gateway and Powerwall](https://www.tesla.com/support/energy/powerwall/own/connecting-network)
 
 After successfully connecting the Gateway to your local network, you can retrieve its local IP Address by checking the list of connected devices on your WiFi router.
 
@@ -32,5 +32,5 @@ More coming soon.
 
 We are immensely grateful to the dedicated individuals in the community whose work has been instrumental in our journey. Their contributions have proven invaluable, and we extend our deepest appreciation to:
 
-- https://tesla-api.timdorr.com/
-- https://github.com/vloschiavo/powerwall2
+- [https://tesla-api.timdorr.com/](https://tesla-api.timdorr.com/)
+- [https://github.com/vloschiavo/powerwall2](https://github.com/vloschiavo/powerwall2)
